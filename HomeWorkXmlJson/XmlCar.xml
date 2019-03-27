@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<car>
+  <typeCar>Truck</typeCar>
+  <mark>Mercedes</mark>
+  <power>200</power>
+  <color>Black</color>
+</car>
